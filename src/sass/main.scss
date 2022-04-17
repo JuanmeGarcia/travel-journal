@@ -1,0 +1,18 @@
+@import './config';
+@import './header';
+@import './card';
+@import './cardContainer';
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.icon-container{
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}

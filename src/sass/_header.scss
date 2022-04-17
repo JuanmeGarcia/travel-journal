@@ -1,0 +1,22 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F55A5A;
+    padding: 25px;
+
+    span{
+        background-image: url(../assets/world.png);
+    }
+
+    h2{
+        color: #fff;
+        font-size: 2rem;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem; 
+    }
+}
